@@ -15,7 +15,7 @@ Alpha Release planned for Q3 2025
 
 ## 
 
-**Kernel:** Based on Fedora Asahi Remix
+**Kernel:** Based on Fedora 
 
 Made to last with Perfomance and stability Upgrades for ARM based Devices
 

@@ -9,7 +9,7 @@ Inspired by Asahi-Remix
 
 ## STILL IN DEVELOPMENT
 
-Alpha Release planned for Q3 2025
+Alpha Release planned for Q4 2025
 
 
 
@@ -34,4 +34,10 @@ Made to last with Perfomance and stability Upgrades for ARM based Devices
 - Optimize Performance
 
 - Update Kernel - Q4 2025
+
+
+## Screenshots
+![nosDesktop1](https://github.com/user-attachments/assets/a950d58f-3b60-4545-8f71-669e86868558)
+
+![nosDesktop2](https://github.com/user-attachments/assets/1f251ac9-44eb-485e-b244-86cc7b19ffbb)
 
